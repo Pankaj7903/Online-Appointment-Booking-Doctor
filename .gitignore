@@ -1,0 +1,16 @@
+# Node modules (all projects)
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Logs
+**/npm-debug.log*
+**/yarn-error.log*
+
+# Build folders
+**/dist/
+**/build/
+
+# OS files
+.DS_Store
